@@ -66,6 +66,7 @@ public class FODIconPicker extends LayoutPreference {
     private static ImageButton Button19;
     private static ImageButton Button20;
     private static ImageButton Button21;
+    private static ImageButton Button22;
 
     private static final String TAG = "FODIconPicker";
 
@@ -174,7 +175,7 @@ public class FODIconPicker extends LayoutPreference {
             updateHighlightedItem(Button20, context);
         } else if (defaultfodicon == 21) {
             updateHighlightedItem(Button21, context);
-        }
+		}
 
         Button0.setOnClickListener(new View.OnClickListener() {
             @Override
