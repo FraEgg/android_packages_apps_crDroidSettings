@@ -23,8 +23,10 @@ import android.content.Context;
 import android.content.om.IOverlayManager;
 import android.os.Bundle;
 import android.os.ServiceManager;
+import android.provider.Settings;
 import android.view.View;
 import android.widget.SeekBar;
+import android.widget.Switch;
 
 import com.android.settings.R;
 import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
@@ -33,10 +35,15 @@ import com.android.settings.core.instrumentation.InstrumentedDialogFragment;
  * Dialog to set the back gesture's sensitivity in Gesture navigation mode.
  */
 public class GestureNavigationBackSensitivityDialog extends InstrumentedDialogFragment {
+    private boolean mGesturePillSwitchChecked;
+
+    private boolean mArrowSwitchChecked;
+
     private static final String TAG = "GestureNavigationBackSensitivityDialog";
     private static final String KEY_BACK_SENSITIVITY = "back_sensitivity";
+    private static final String KEY_BACK_HEIGHT = "back_height";
 
-    public static void show(SystemNavigationGestureSettings parent, int sensitivity) {
+    public static void show(SystemNavigationGestureSettings parent, int sensitivity, int height) {
         if (!parent.isAdded()) {
             return;
         }
@@ -45,6 +52,7 @@ public class GestureNavigationBackSensitivityDialog extends InstrumentedDialogFr
                 new GestureNavigationBackSensitivityDialog();
         final Bundle bundle = new Bundle();
         bundle.putInt(KEY_BACK_SENSITIVITY, sensitivity);
+        bundle.putInt(KEY_BACK_HEIGHT, height);
         dialog.setArguments(bundle);
         dialog.setTargetFragment(parent, 0);
         dialog.show(parent.getFragmentManager(), TAG);
@@ -58,18 +66,50 @@ public class GestureNavigationBackSensitivityDialog extends InstrumentedDialogFr
     @Override
     public Dialog onCreateDialog(Bundle savedInstanceState) {
         final View view = getActivity().getLayoutInflater().inflate(
-                R.layout.dialog_back_gesture_sensitivity, null);
-        final SeekBar seekBar = view.findViewById(R.id.back_sensitivity_seekbar);
-        seekBar.setProgress(getArguments().getInt(KEY_BACK_SENSITIVITY));
+                R.layout.dialog_back_gesture_options, null);
+        final SeekBar seekBarSensitivity = view.findViewById(R.id.back_sensitivity_seekbar);
+        seekBarSensitivity.setProgress(getArguments().getInt(KEY_BACK_SENSITIVITY));
+        final SeekBar seekBarHeight = view.findViewById(R.id.back_height_seekbar);
+        seekBarHeight.setProgress(getArguments().getInt(KEY_BACK_HEIGHT));
+        final Switch arrowSwitch = view.findViewById(R.id.back_arrow_gesture_switch);
+        mArrowSwitchChecked = Settings.Secure.getInt(getActivity().getContentResolver(),
+                Settings.Secure.SHOW_BACK_ARROW_GESTURE, 1) == 1;
+        arrowSwitch.setChecked(mArrowSwitchChecked);
+        arrowSwitch.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mArrowSwitchChecked = arrowSwitch.isChecked() ? true : false;
+            }
+        });
+        final Switch gesturePillSwitch = view.findViewById(R.id.gesture_pill_switch);
+        mGesturePillSwitchChecked = Settings.System.getInt(getActivity().getContentResolver(),
+                Settings.System.GESTURE_PILL_TOGGLE, 0) == 1;
+        gesturePillSwitch.setChecked(mGesturePillSwitchChecked);
+        gesturePillSwitch.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mGesturePillSwitchChecked = gesturePillSwitch.isChecked() ? true : false;
+            }
+        });
         return new AlertDialog.Builder(getContext())
-                .setTitle(R.string.back_sensitivity_dialog_title)
+                .setTitle(R.string.back_options_dialog_title)
                 .setMessage(R.string.back_sensitivity_dialog_message)
                 .setView(view)
                 .setPositiveButton(R.string.okay, (dialog, which) -> {
-                    int sensitivity = seekBar.getProgress();
+                    int sensitivity = seekBarSensitivity.getProgress();
                     getArguments().putInt(KEY_BACK_SENSITIVITY, sensitivity);
+                    int height = seekBarHeight.getProgress();
+                    getArguments().putInt(KEY_BACK_HEIGHT, height);
+                    SystemNavigationGestureSettings.setBackHeight(getActivity(), height);
                     SystemNavigationGestureSettings.setBackSensitivity(getActivity(),
                             getOverlayManager(), sensitivity);
+                    Settings.Secure.putInt(getActivity().getContentResolver(),
+                            Settings.Secure.SHOW_BACK_ARROW_GESTURE, mArrowSwitchChecked ? 1 : 0);
+                    Settings.System.putInt(getActivity().getContentResolver(),
+                            Settings.System.GESTURE_PILL_TOGGLE, mGesturePillSwitchChecked ? 1 : 0);
+                    SystemNavigationGestureSettings.setBackGestureOverlaysToUse(getActivity());
+                    SystemNavigationGestureSettings.setCurrentSystemNavigationMode(getActivity(),
+                            getOverlayManager(), SystemNavigationGestureSettings.getCurrentSystemNavigationMode(getActivity()));
                 })
                 .create();
     }
