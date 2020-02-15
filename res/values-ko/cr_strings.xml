@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
-  <string name="crdroid_settings_title">crDroid 설정</string>
+  <string name="crdroid_settings_title">LuisROM crDroid 설정</string>
   <string name="crdroid_personalization_category">개인 설정</string>
   <string name="crdroid_addons_category">부가 기능들</string>
   <!-- Personalization Categories -->

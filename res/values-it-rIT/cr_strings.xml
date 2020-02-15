@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">Impostazioni crDroid</string>
+    <string name="crdroid_settings_title">Impostazioni LuisROM crDroid</string>
     <string name="crdroid_settings_summary">Dove avviene la magia</string>
     <string name="crdroid_personalization_category">Personalizzazione</string>
     <string name="crdroid_addons_category">Aggiunte</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Donate per sostenere lo sviluppo e il nostro server</string>
     <string name="donate_team_title">team crDroid</string>
     <string name="donate_team_summary">Fai una donazione per supportare l\'hosting del server, l\'uptime del sito e la gestione complessiva</string>
-    <string name="donate_dev_summary">Sviluppatore principale - dona per una birra o un caffè!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Pulsante alimentazione</string>
     <string name="hardware_keys_home_key_title">Pulsante home</string>

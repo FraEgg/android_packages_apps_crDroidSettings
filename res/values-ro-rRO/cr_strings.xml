@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">Setări crDroid</string>
+    <string name="crdroid_settings_title">Setări LuisROM crDroid</string>
     <string name="crdroid_settings_summary">Unde se intampla magia</string>
     <string name="crdroid_personalization_category">Personalizare</string>
     <string name="crdroid_addons_category">Extensii</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Doneaza pentru dezvoltare si suport server</string>
     <string name="donate_team_title">Echipa crDroid</string>
     <string name="donate_team_summary">Donează pentru a sprijini serverul de hosting, site-ul şi managementul general</string>
-    <string name="donate_dev_summary">Dezvoltator principal - donează pentru o bere sau o cafea!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Buton pornire</string>
     <string name="hardware_keys_home_key_title">Buton acasă</string>

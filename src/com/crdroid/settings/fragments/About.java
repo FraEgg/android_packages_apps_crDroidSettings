@@ -70,7 +70,7 @@ public class About extends SettingsPreferenceFragment implements Indexable {
         if (preference == mSourceUrl) {
             launchUrl("https://github.com/crdroidandroid");
         } else if (preference == mTelegramUrl) {
-            launchUrl("https://t.me/crDroidAndroid");
+            launchUrl("https://t.me/rr_luisrom");
         } else if (preference == mShare) {
             Intent intent = new Intent();
             intent.setAction(Intent.ACTION_SEND);
@@ -81,7 +81,7 @@ public class About extends SettingsPreferenceFragment implements Indexable {
         } else if (preference == mTranslate) {
             launchUrl("https://crdroid.net/translations.php");
         } else if (preference == mWebsite) {
-            launchUrl("https://crdroid.net");
+            launchUrl("https://luis-builds.de");
         }
 
         return super.onPreferenceTreeClick(preference);

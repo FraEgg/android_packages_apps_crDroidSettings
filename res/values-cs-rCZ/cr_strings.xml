@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">Nastavení crDroidu</string>
+    <string name="crdroid_settings_title">Nastavení LuisROM crDroidu</string>
     <string name="crdroid_settings_summary">Odhalte jeho možnosti</string>
     <string name="crdroid_personalization_category">Přizpůsobení</string>
     <string name="crdroid_addons_category">Doplňky</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Přispějte na podporu vývoje a\u00a0náš server</string>
     <string name="donate_team_title">Tým crDroidu</string>
     <string name="donate_team_summary">Přispějte na podporu hostingového serveru, provoz a\u00a0celkovou správu webu</string>
-    <string name="donate_dev_summary">Hlavní vývojář – Přispějte mu na pivo nebo kávu!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Tlačítko „Napájení“</string>
     <string name="hardware_keys_home_key_title">Tlačítko „Domů“</string>

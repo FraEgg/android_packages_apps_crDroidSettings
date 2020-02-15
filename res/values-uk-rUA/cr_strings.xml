@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">Параметри crDroid</string>
+    <string name="crdroid_settings_title">Параметри LuisROM crDroid</string>
     <string name="crdroid_settings_summary">Додаткові налаштування</string>
     <string name="crdroid_personalization_category">Персоналізація</string>
     <string name="crdroid_addons_category">Доповнення</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Пожертви на підтримку розвитку і нашого сервера</string>
     <string name="donate_team_title">Команда crDroid</string>
     <string name="donate_team_summary">Пожертвувати на підтримку хостинга, сайту та розвитку проекту</string>
-    <string name="donate_dev_summary">Головний розробник – пожертвувати на пиво чи каву!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Кнопка живлення</string>
     <string name="hardware_keys_home_key_title">Кнопка \"Додому\"</string>

@@ -16,8 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">إعدادات crDroid</string>
-    <string name="crdroid_settings_summary">خيارات وإعدادات crDroid</string>
+    <string name="crdroid_settings_title">إعدادات LuisROM crDroid</string>
+    <string name="crdroid_settings_summary">خيارات وإعدادات LuisROM crDroid</string>
     <string name="crdroid_personalization_category">التخصيص</string>
     <string name="crdroid_addons_category">الإضافات</string>
     <!-- Personalization Categories -->
@@ -1041,7 +1041,6 @@
     <string name="donate_crdroid_summary">التبرع لدعم المطورين وخدماتنا</string>
     <string name="donate_team_title">crDroid فريق</string>
     <string name="donate_team_summary">التبرع لدعم استضافة الخادم ووقت تشغيل الموقع والإدارة العامة</string>
-    <string name="donate_dev_summary">المطور الأساسي - التبرع للحصول على قهوة!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">زر التشغيل</string>
     <string name="hardware_keys_home_key_title">زر الصفحة الرئيسية</string>

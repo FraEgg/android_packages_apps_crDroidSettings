@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">crDroidi seaded</string>
+    <string name="crdroid_settings_title">LuisROM crDroidi seaded</string>
     <string name="crdroid_settings_summary">Ava hea kraam</string>
     <string name="crdroid_personalization_category">Isikupärastamine</string>
     <string name="crdroid_addons_category">Lisad</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Anneta, et toetada arendamist ning meie serverit</string>
     <string name="donate_team_title">crDroidi tiim</string>
     <string name="donate_team_summary">Anneta, et toetada serveri majutamist, veebilehe ülalpidamist ning üleüldist haldust</string>
-    <string name="donate_dev_summary">Põhiarendaja - Anneta õlut või kohvi!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Toitenupp</string>
     <string name="hardware_keys_home_key_title">Kodunupp</string>

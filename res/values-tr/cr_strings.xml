@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
-  <string name="crdroid_settings_title">crDroid Ayarları</string>
+  <string name="crdroid_settings_title">LuisROM crDroid Ayarları</string>
   <string name="crdroid_personalization_category">Kişiselleştirme</string>
   <string name="crdroid_addons_category">Eklentiler</string>
   <!-- Personalization Categories -->

@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">crDroid 设置</string>
+    <string name="crdroid_settings_title">LuisROM crDroid 设置</string>
     <string name="crdroid_settings_summary">个性化设置</string>
     <string name="crdroid_personalization_category">个性化</string>
     <string name="crdroid_addons_category">附加组件</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">捐赠支持开发和我们的服务器</string>
     <string name="donate_team_title">crDroid 团队</string>
     <string name="donate_team_summary">为支持服务器托管、站点正常运行时间和总体管理提供捐助</string>
-    <string name="donate_dev_summary">核心开发人员 - 捐赠啤酒或咖啡！</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">电源键</string>
     <string name="hardware_keys_home_key_title">主页键</string>

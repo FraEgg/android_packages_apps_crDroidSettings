@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
-  <string name="crdroid_settings_title">crட்ராய்டு அமைப்புகள்</string>
+  <string name="crdroid_settings_title">LuisROM crட்ராய்டு அமைப்புகள்</string>
   <string name="crdroid_personalization_category">தனிப்பயனாக்கம்</string>
   <string name="crdroid_addons_category">துணைப்பயன்களை</string>
   <!-- Personalization Categories -->

@@ -52,7 +52,7 @@ public class Donate extends SettingsPreferenceFragment {
         if (preference == mDonateTeam) {
             launchUrl("https://www.paypal.me/crdroidandroid");
         } else if (preference == mDonateDev) {
-            launchUrl("https://www.paypal.me/neobuddy89");
+            launchUrl("https://www.paypal.com/paypalme2/frankeggen");
         }
 
         return super.onPreferenceTreeClick(preference);

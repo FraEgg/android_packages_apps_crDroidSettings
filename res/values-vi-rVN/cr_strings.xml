@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">Tùy biến crDroid</string>
+    <string name="crdroid_settings_title">Tùy biến LuisROM crDroid</string>
     <string name="crdroid_settings_summary">Mở tính năng tốt nhất</string>
     <string name="crdroid_personalization_category">Cá nhân hóa</string>
     <string name="crdroid_addons_category">Bổ sung</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Ủng hộ để hỗ trợ phát triển và các máy chủ của chúng tôi</string>
     <string name="donate_team_title">nhóm crDroid</string>
     <string name="donate_team_summary">Tặng để hỗ trợ máy chủ lưu trữ, hoạt động trang web và quản lý tổng thể</string>
-    <string name="donate_dev_summary">Cốt lõi sự phát triển - tặng cho bia hoặc ly cà phê!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Phím nguồn</string>
     <string name="hardware_keys_home_key_title">Nút Home</string>

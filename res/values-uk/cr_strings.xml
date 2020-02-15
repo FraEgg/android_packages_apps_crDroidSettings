@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- App Title -->
-  <string name="crdroid_settings_title">crDroid Налаштування</string>
+  <string name="crdroid_settings_title">LuisROM crDroid Налаштування</string>
   <string name="crdroid_personalization_category">Персоналізація</string>
   <string name="crdroid_addons_category">Доповнення</string>
   <!-- Personalization Categories -->

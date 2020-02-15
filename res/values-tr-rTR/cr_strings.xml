@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">crDroid Ayarları</string>
+    <string name="crdroid_settings_title">LuisROM crDroid Ayarları</string>
     <string name="crdroid_settings_summary">Cihazınızı özelleştirin!</string>
     <string name="crdroid_personalization_category">Kişiselleştirme</string>
     <string name="crdroid_addons_category">Eklentiler</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Geliştirmelerimizi desteklemek için bağış yapın</string>
     <string name="donate_team_title">crDroid takımı</string>
     <string name="donate_team_summary">Sunucu hostingi, site çalışma zamanı ve genel yönetimi desteklemek için bağış yapın</string>
-    <string name="donate_dev_summary">Çekirdek geliştirici - Bir bira yada kahve için bağış yapın!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Güç tuşu</string>
     <string name="hardware_keys_home_key_title">Ana ekran tuşu</string>

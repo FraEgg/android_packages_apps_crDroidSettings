@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">A crDroid beállításai</string>
+    <string name="crdroid_settings_title">A LuisROM crDroid beállításai</string>
     <string name="crdroid_settings_summary">Klassz cuccok lelőhelye</string>
     <string name="crdroid_personalization_category">Testreszabás</string>
     <string name="crdroid_addons_category">Bővítmények</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Adományozzon a fejlesztésre és a szerver fenntartására</string>
     <string name="donate_team_title">A crDroid csapata</string>
     <string name="donate_team_summary">Adományozzon, hogy támogassa a szerverbérlést, a weboldal-fenntarást és menedzselést</string>
-    <string name="donate_dev_summary">Küldjön egy kávét vagy egy sört a fejlesztőknek!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Bekapcsológomb</string>
     <string name="hardware_keys_home_key_title">Kezdőgomb</string>

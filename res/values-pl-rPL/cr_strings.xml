@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">Ustawienia crDroid</string>
+    <string name="crdroid_settings_title">Ustawienia LuisROM crDroid</string>
     <string name="crdroid_settings_summary">Otwarta dobroć</string>
     <string name="crdroid_personalization_category">Konfiguracja</string>
     <string name="crdroid_addons_category">Dodatki</string>
@@ -1042,7 +1042,7 @@ https://plus.google.com/communities/118297646046960923906</string>
     <string name="donate_crdroid_summary">Złóż datek by wesprzeć rozwój i nasz serwer</string>
     <string name="donate_team_title">Zespół crDroid</string>
     <string name="donate_team_summary">Datek do obsługi serwera hostingu, działaniu strony i ogólnego zarządzania</string>
-    <string name="donate_dev_summary">Główny autor - Darowizna na piwo lub kawę!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Przycisk zasilania</string>
     <string name="hardware_keys_home_key_title">Przycisk Home</string>

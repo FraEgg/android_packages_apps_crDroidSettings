@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">crட்ராய்டு அமைப்புகள்</string>
+    <string name="crdroid_settings_title">LuisROM crட்ராய்டு அமைப்புகள்</string>
     <string name="crdroid_settings_summary">நன்மைக்கு திற</string>
     <string name="crdroid_personalization_category">தனிப்பயனாக்கம்</string>
     <string name="crdroid_addons_category">துணைப்பயன்களை</string>
@@ -1048,7 +1048,7 @@ fling_left_up_swipe
     <string name="donate_crdroid_summary">Donate to support development and our server</string>
     <string name="donate_team_title">crDroid team</string>
     <string name="donate_team_summary">Donate to support server hosting, site uptime and overall management</string>
-    <string name="donate_dev_summary">Core developer - Donate for a beer or a coffee!</string>
+    <string name="donate_dev_summary">Core LuisROM developer - Donate for a beer or a coffee!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Power button</string>
     <string name="hardware_keys_home_key_title">Home button</string>

@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">Configurações crDroid</string>
+    <string name="crdroid_settings_title">Configurações LuisROM crDroid</string>
     <string name="crdroid_settings_summary">Bondade aberta</string>
     <string name="crdroid_personalization_category">Personalização</string>
     <string name="crdroid_addons_category">Complementos</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Doar para apoiar o desenvolvimento e o nosso servidor</string>
     <string name="donate_team_title">equipe crDroid</string>
     <string name="donate_team_summary">Contribua para manter o servidor de hospedagem, uptime e gerenciamento geral do site</string>
-    <string name="donate_dev_summary">Desenvolvedor principal - Doe para uma cerveja ou café!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Botão liga/desliga</string>
     <string name="hardware_keys_home_key_title">Botão de início</string>

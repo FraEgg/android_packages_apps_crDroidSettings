@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">crDroid-indstillinger</string>
+    <string name="crdroid_settings_title">LuisROM crDroid-indstillinger</string>
     <string name="crdroid_settings_summary">Åbn Godhed</string>
     <string name="crdroid_personalization_category">Personliggørelse</string>
     <string name="crdroid_addons_category">Tilføjelser</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Donér for at støtte udvikling og vores server</string>
     <string name="donate_team_title">crDroid-team</string>
     <string name="donate_team_summary">Donér for at støtte server-hosting, opetid på webstedet og generel håndterng</string>
-    <string name="donate_dev_summary">Kerneudvikler - Donér til en øl eller en kop kaffe!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Tænd-/Slukknap</string>
     <string name="hardware_keys_home_key_title">Hjemknap</string>

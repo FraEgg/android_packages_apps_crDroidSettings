@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">Pengaturan crDroid</string>
+    <string name="crdroid_settings_title">Pengaturan LuisROM crDroid</string>
     <string name="crdroid_settings_summary">Kebaikan terbuka</string>
     <string name="crdroid_personalization_category">Personalisasi</string>
     <string name="crdroid_addons_category">Pengaya</string>
@@ -1041,7 +1041,7 @@
     <string name="donate_crdroid_summary">Donasi untuk mendukung pengembangan dan server kami</string>
     <string name="donate_team_title">Tim crDroid</string>
     <string name="donate_team_summary">Donasi untuk mendukung server hosting, keaktifan situs serta pemanajemenan secara keseluruhan</string>
-    <string name="donate_dev_summary">Pengembang inti - donasi untuk sebotol bir atau segelas kopi!</string>
+
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Tombol Power</string>
     <string name="hardware_keys_home_key_title">Tombol Home</string>
