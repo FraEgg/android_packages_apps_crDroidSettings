@@ -45,7 +45,6 @@ import com.crdroid.settings.fragments.statusbar.NetworkTrafficSettings;
 import com.crdroid.settings.preferences.SystemSettingListPreference;
 import com.crdroid.settings.preferences.colorpicker.ColorPickerPreference;
 import com.crdroid.settings.utils.DeviceUtils;
-import com.crdroid.settings.utils.TelephonyUtils;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -107,13 +106,6 @@ public class StatusBar extends SettingsPreferenceFragment implements
         mShowFourg = (SwitchPreference) findPreference(KEY_SHOW_FOURG);
         mShowRoaming = (SwitchPreference) findPreference(KEY_SHOW_ROAMING);
         mShowVolte = (SwitchPreference) findPreference(KEY_SHOW_VOLTE);
-
-        if (!TelephonyUtils.isVoiceCapable(getActivity())) {
-            prefScreen.removePreference(mDataDisabled);
-            prefScreen.removePreference(mShowFourg);
-            prefScreen.removePreference(mShowRoaming);
-            prefScreen.removePreference(mShowVolte);
-        }
 
         mOldMobileType = (SwitchPreference) findPreference(KEY_OLD_MOBILETYPE);
         boolean mConfigUseOldMobileType = mContext.getResources().getBoolean(
@@ -192,13 +184,6 @@ public class StatusBar extends SettingsPreferenceFragment implements
                 @Override
                 public List<String> getNonIndexableKeys(Context context) {
                     List<String> keys = super.getNonIndexableKeys(context);
-
-                    if (!TelephonyUtils.isVoiceCapable(context)) {
-                        keys.add(KEY_SHOW_DATA_DISABLED);
-                        keys.add(KEY_SHOW_FOURG);
-                        keys.add(KEY_SHOW_ROAMING);
-                        keys.add(KEY_SHOW_VOLTE);
-                    }
 
                     return keys;
                 }

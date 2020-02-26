@@ -53,7 +53,6 @@ import com.crdroid.settings.R;
 import com.crdroid.settings.fragments.buttons.ButtonBacklightBrightness;
 import com.crdroid.settings.fragments.buttons.PowerMenuActions;
 import com.crdroid.settings.utils.DeviceUtils;
-import com.crdroid.settings.utils.TelephonyUtils;
 
 import org.lineageos.internal.util.ScreenType;
 
@@ -249,10 +248,6 @@ public class Buttons extends SettingsPreferenceFragment implements
         }
 
         if (hasPowerKey) {
-            if (!TelephonyUtils.isVoiceCapable(getActivity())) {
-                powerCategory.removePreference(mPowerEndCall);
-                mPowerEndCall = null;
-            }
             if (!DeviceUtils.deviceSupportsFlashLight(getActivity())) {
                 powerCategory.removePreference(mTorchLongPressPowerGesture);
                 powerCategory.removePreference(mTorchLongPressPowerTimeout);
@@ -264,11 +259,6 @@ public class Buttons extends SettingsPreferenceFragment implements
         if (hasHomeKey) {
             if (!showHomeWake) {
                 homeCategory.removePreference(findPreference(KEY_HOME_WAKE_SCREEN));
-            }
-
-            if (!TelephonyUtils.isVoiceCapable(getActivity())) {
-                homeCategory.removePreference(mHomeAnswerCall);
-                mHomeAnswerCall = null;
             }
 
             mHomeLongPressAction = initList(KEY_HOME_LONG_PRESS, homeLongPressAction);
@@ -364,10 +354,6 @@ public class Buttons extends SettingsPreferenceFragment implements
         if (DeviceUtils.hasVolumeRocker(getActivity())) {
             if (!showVolumeWake) {
                 volumeCategory.removePreference(findPreference(KEY_VOLUME_WAKE_SCREEN));
-            }
-
-            if (!TelephonyUtils.isVoiceCapable(getActivity())) {
-                volumeCategory.removePreference(findPreference(KEY_VOLUME_ANSWER_CALL));
             }
 
             int cursorControlAction = Settings.System.getIntForUser(resolver,
@@ -627,9 +613,6 @@ public class Buttons extends SettingsPreferenceFragment implements
                         keys.add(KEY_TORCH_LONG_PRESS_POWER_GESTURE);
                         keys.add(KEY_TORCH_LONG_PRESS_POWER_TIMEOUT);
                     } else {
-                        if (!TelephonyUtils.isVoiceCapable(context)) {
-                            keys.add(KEY_POWER_END_CALL);
-                        }
                         if (!DeviceUtils.deviceSupportsFlashLight(context)) {
                             keys.add(KEY_TORCH_LONG_PRESS_POWER_GESTURE);
                             keys.add(KEY_TORCH_LONG_PRESS_POWER_TIMEOUT);
@@ -639,10 +622,6 @@ public class Buttons extends SettingsPreferenceFragment implements
                     keys.add(KEY_HOME_WAKE_SCREEN);
                     keys.add(KEY_HOME_LONG_PRESS);
                     keys.add(KEY_HOME_DOUBLE_TAP);
-
-                    if (!hasHomeKey || !TelephonyUtils.isVoiceCapable(context)) {
-                        keys.add(KEY_HOME_ANSWER_CALL);
-                    }
 
                     keys.add(KEY_BACK_WAKE_SCREEN);
                     keys.add(KEY_BACK_LONG_PRESS);
@@ -671,9 +650,6 @@ public class Buttons extends SettingsPreferenceFragment implements
                         keys.add(KEY_VOLUME_KEY_CURSOR_CONTROL);
                         keys.add(KEY_SWAP_VOLUME_BUTTONS);
                     } else {
-                        if (!TelephonyUtils.isVoiceCapable(context)) {
-                            keys.add(KEY_VOLUME_ANSWER_CALL);
-                        }
                     }
 
                     keys.add(KEY_ADDITIONAL_BUTTONS);
