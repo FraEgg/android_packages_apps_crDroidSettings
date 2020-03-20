@@ -299,6 +299,6 @@
             android:padding="@dimen/fod_picker_item_padding"
             android:layout_margin="@dimen/fod_picker_item_margin"
             android:background="@drawable/fod_picker_item_background"/>
-			
+
     </LinearLayout>
 </LinearLayout>
