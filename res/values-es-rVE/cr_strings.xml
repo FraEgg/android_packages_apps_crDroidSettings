@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Personalización de la batería</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Ajustes varios</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Mostrar Logo</string>
     <string name="status_bar_crdroid_logo_summary">Activar para mostrar logo en la barra de estado</string>
     <string name="status_bar_crdroid_logo_color">Color del logo</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Estilo del logo</string>
     <string name="status_bar_logo_position_right">Derecha</string>
     <string name="status_bar_logo_position_left">Izquierda</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Cambios actuales</string>
     <string name="changelog_crdroid_summary">Ver los cambios en la ROM instalada</string>
     <string name="changelog_crdroid_error">No se ha podido cargar la lista de cambios</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Acerca de crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Compartir crDroid</string>
-    <string name="share_crdroid_summary">Hágale saber a otros sobre crDroid</string>
-    <string name="share_message">Check out what #crDroid is all about @ https://plus.google.com/u/0/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Compartir crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Acerca de LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Compartir LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Hágale saber a otros sobre LuisROM crDroid</string>
+    <string name="share_message">Check out what #LuisROM crDroid is all about @ https://plus.google.com/u/0/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Compartir LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Visite nuestro equipo de fuente git</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Dispositivos y mantenedores</string>
     <string name="maintainers_crdroid_summary">Lista de dispositivos compatibles y sus mantenedores oficiales</string>
     <string name="maintainers_crdroid_error">No se puede cargar la lista de dispositivos y mantenedores</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Ayúdanos</string>
     <string name="donate_crdroid_summary">Donar para apoyar el desarrollo y nuestro servidor</string>
     <string name="donate_team_title">Equipo CrDroid</string>
     <string name="donate_team_summary">Donación para ayudar a los servicios de alojamiento, el sitio y la gestión general.</string>
-    
+    <string name="donate_dev_summary">Desarrollador del núcleo principal - Donación para una cervecita o una taza de café bien caliente!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Botón de encendido</string>
     <string name="hardware_keys_home_key_title">Botón de inicio</string>
@@ -1546,7 +1546,7 @@ puede instalar nuevos paquetes de iconos desde la play store buscando \"Chronus 
     <string name="media_scanner_on_boot_disabled">No escanear multimedia</string>
     <!-- Reset settings -->
     <string name="reset_settings_title">Reestablecer la configuración predeterminada</string>
-    <string name="reset_settings_message">Esto restablecerá la mayoría de los ajustes de configuración de crDroid a sus valores predeterminados para el usuario actual. ¿Desea continuar?</string>
+    <string name="reset_settings_message">Esto restablecerá la mayoría de los ajustes de configuración de LuisROM crDroid a sus valores predeterminados para el usuario actual. ¿Desea continuar?</string>
     <!-- OTA -->
     <string name="ota_crdroid_title">Actualizacaciones</string>
     <string name="ota_crdroid_summary">Comprobar si hay actualizaciones OTA para el equipo</string>

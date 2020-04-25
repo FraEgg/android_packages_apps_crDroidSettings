@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Vlastní nastavení baterie</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Různé</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Zobrazit logo</string>
     <string name="status_bar_crdroid_logo_summary">Zobrazit logo ve stavovém řádku</string>
     <string name="status_bar_crdroid_logo_color">Barva loga</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Styl loga</string>
     <string name="status_bar_logo_position_right">Vpravo</string>
     <string name="status_bar_logo_position_left">Vlevo</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Aktuální seznam změn</string>
     <string name="changelog_crdroid_summary">Zobrazit změny v\u00a0nainstalované ROM</string>
     <string name="changelog_crdroid_error">Nelze načíst seznam změn</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">O crDroidu</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Sdílet crDroid</string>
-    <string name="share_crdroid_summary">Dejte vědět ostatním o\u00a0crDroidu</string>
-    <string name="share_message">Podívejte se o\u00a0čem je #crDroid na: https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Sdílet crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">O LuisROM crDroidu</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Sdílet LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Dejte vědět ostatním o\u00a0LuisROM crDroidu</string>
+    <string name="share_message">Podívejte se o\u00a0čem je #LuisROM crDroid na: https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Sdílet LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Máme rádi open source. Podívejte se, co děláme</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Zařízení a\u00a0správci</string>
     <string name="maintainers_crdroid_summary">Seznam podporovaných zařízení a\u00a0jejich oficiální správci</string>
     <string name="maintainers_crdroid_error">Nelze načíst seznam zařízení a\u00a0správců</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Podpořte nás</string>
     <string name="donate_crdroid_summary">Přispějte na podporu vývoje a\u00a0náš server</string>
-    <string name="donate_team_title">Tým crDroidu</string>
+    <string name="donate_team_title">Tým LuisROM crDroidu</string>
     <string name="donate_team_summary">Přispějte na podporu hostingového serveru, provoz a\u00a0celkovou správu webu</string>
-
+    <string name="donate_dev_summary">Hlavní vývojář – Přispějte mu na pivo nebo kávu!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Tlačítko „Napájení“</string>
     <string name="hardware_keys_home_key_title">Tlačítko „Domů“</string>
@@ -1545,7 +1545,7 @@
     <string name="media_scanner_on_boot_disabled">Neskenovat média</string>
     <!-- Reset settings -->
     <string name="reset_settings_title">Obnovit nastavení</string>
-    <string name="reset_settings_message">Tímto obnovíte většinu nastavení crDroidu pro aktuálního uživatele na výchozí hodnoty. Přejete si pokračovat?</string>
+    <string name="reset_settings_message">Tímto obnovíte většinu nastavení LuisROM crDroidu pro aktuálního uživatele na výchozí hodnoty. Přejete si pokračovat?</string>
     <!-- OTA -->
     <string name="ota_crdroid_title">Aktualizace</string>
     <string name="ota_crdroid_summary">Zkontrolovat aktualizaci OTA a\u00a0odkazy pro zařízení</string>

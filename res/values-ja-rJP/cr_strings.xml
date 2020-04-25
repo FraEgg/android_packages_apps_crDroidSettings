@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">バッテリー表示</string>
     <string name="status_bar_logo_category_title">ロゴ</string>
     <string name="status_bar_misc_category_title">その他の設定</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">ロゴを表示</string>
     <string name="status_bar_crdroid_logo_summary">ステータスバーにロゴを表示します</string>
     <string name="status_bar_crdroid_logo_color">ロゴの色</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">ロゴのスタイル</string>
     <string name="status_bar_logo_position_right">右</string>
     <string name="status_bar_logo_position_left">左</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">最近の更新履歴</string>
     <string name="changelog_crdroid_summary">インストールされている ROM の更新内容を確認します</string>
     <string name="changelog_crdroid_error">更新履歴を読み込めませんでした</string>
-    <!-- About crDroid -->
+    <!-- About LuisROM crDroid -->
     <string name="about_crdroid">CrDroid について</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">crDroid についてシェアする</string>
-    <string name="share_crdroid_summary">みんなに crDroid について知ってもらう</string>
-    <string name="share_message">#crDroid について詳しくは→ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">crDroid についてシェアする</string>
-    <!-- Sites crDroid -->
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">LuisROM crDroid についてシェアする</string>
+    <string name="share_crdroid_summary">みんなに LuisROM crDroid について知ってもらう</string>
+    <string name="share_message">#LuisROM crDroid について詳しくは→ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">LuisROM crDroid についてシェアする</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">私たちはオープンソースを愛しています。見てみてください</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">端末とメンテナー</string>
     <string name="maintainers_crdroid_summary">端末の一覧と公式メンテナー</string>
     <string name="maintainers_crdroid_error">端末とメンテナーのリストを読み込めません</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">私たちを支援する</string>
     <string name="donate_crdroid_summary">寄付で開発とサーバーを支えましょう</string>
-    <string name="donate_team_title">crDroid チーム</string>
+    <string name="donate_team_title">LuisROM crDroid チーム</string>
     <string name="donate_team_summary">寄付でホスティングサーバーや全体的な管理を助けてください</string>
-
+    <string name="donate_dev_summary">メイン開発者 - ビールやコーヒーのために寄付してください！</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">電源ボタン</string>
     <string name="hardware_keys_home_key_title">ホームボタン</string>
@@ -1545,7 +1545,7 @@
     <string name="media_scanner_on_boot_disabled">メディアをスキャンしない</string>
     <!-- Reset settings -->
     <string name="reset_settings_title">設定をリセット</string>
-    <string name="reset_settings_message">現在のユーザーのほとんどの crDroid 設定を初期設定に戻します。続行しますか？</string>
+    <string name="reset_settings_message">現在のユーザーのほとんどの LuisROM crDroid 設定を初期設定に戻します。続行しますか？</string>
     <!-- OTA -->
     <string name="ota_crdroid_title">アップデート</string>
     <string name="ota_crdroid_summary">OTA アップデートの有無とお使いの端末向けのリンクをチェックします</string>

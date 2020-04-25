@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Dostosowanie baterii</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Pozostałe</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Pokaż logo</string>
     <string name="status_bar_crdroid_logo_summary">Włącz, aby pokazać logo na pasku stanu</string>
     <string name="status_bar_crdroid_logo_color">Kolor loga</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Styl logo</string>
     <string name="status_bar_logo_position_right">Prawa</string>
     <string name="status_bar_logo_position_left">Lewo</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,15 +1021,15 @@
     <string name="changelog_crdroid_title">Bieżąca lista zmian</string>
     <string name="changelog_crdroid_summary">Pokaż zmiany zastosowane w systemie</string>
     <string name="changelog_crdroid_error">Nie można załadować dziennika zmian</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">O crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Udostępnij crDroid</string>
-    <string name="share_crdroid_summary">Powiadom innych o crDroid</string>
-    <string name="share_message">Sprawdź o czym jest #crDroid @
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">O LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Udostępnij LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Powiadom innych o LuisROM crDroid</string>
+    <string name="share_message">Sprawdź o czym jest #LuisROM crDroid @
 https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Udostępnij crDroid</string>
-    <!-- Sites crDroid -->
+    <string name="share_chooser_title">Udostępnij LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Kochamy open source, sprawdź nas</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1044,12 +1044,12 @@ https://plus.google.com/communities/118297646046960923906</string>
     <string name="maintainers_crdroid_title">Urządzenia i opiekunowie</string>
     <string name="maintainers_crdroid_summary">Lista urządzeń i ich oficjalnych opiekunów</string>
     <string name="maintainers_crdroid_error">Nie można załadować listy urządzeń i opiekunów</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Wesprzyj nas</string>
     <string name="donate_crdroid_summary">Złóż datek by wesprzeć rozwój i nasz serwer</string>
-    <string name="donate_team_title">Zespół crDroid</string>
+    <string name="donate_team_title">Zespół LuisROM crDroid</string>
     <string name="donate_team_summary">Datek do obsługi serwera hostingu, działaniu strony i ogólnego zarządzania</string>
-
+    <string name="donate_dev_summary">Główny autor - Darowizna na piwo lub kawę!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Przycisk zasilania</string>
     <string name="hardware_keys_home_key_title">Przycisk Home</string>
@@ -1546,7 +1546,7 @@ https://plus.google.com/communities/118297646046960923906</string>
     <string name="media_scanner_on_boot_disabled">Nie skanuj mediów</string>
     <!-- Reset settings -->
     <string name="reset_settings_title">Resetuj ustawienia</string>
-    <string name="reset_settings_message">To spowoduje zresetowanie większości ustawień crDroid do wartości domyślnych dla bieżącego użytkownika. Czy chcesz kontynuować?</string>
+    <string name="reset_settings_message">To spowoduje zresetowanie większości ustawień LuisROM crDroid do wartości domyślnych dla bieżącego użytkownika. Czy chcesz kontynuować?</string>
     <!-- OTA -->
     <string name="ota_crdroid_title">Aktualizacje</string>
     <string name="ota_crdroid_summary">Sprawdzenie dla aplikacji OTA oraz linków dla twojego urządzenia</string>

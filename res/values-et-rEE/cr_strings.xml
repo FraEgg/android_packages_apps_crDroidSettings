@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Aku kohandused</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Muu</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Näita logo</string>
     <string name="status_bar_crdroid_logo_summary">Luba, et kuvada logo olekuribal</string>
     <string name="status_bar_crdroid_logo_color">Logo värv</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Logo stiil</string>
     <string name="status_bar_logo_position_right">Paremal</string>
     <string name="status_bar_logo_position_left">Vasakul</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Praegune muudatuste logi</string>
     <string name="changelog_crdroid_summary">Vaata paigaldatud ROMi muudatusi</string>
     <string name="changelog_crdroid_error">Muudatuste logi ei saanud laadida</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Info crDroidi kohta</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Jaga crDroidi</string>
-    <string name="share_crdroid_summary">Anna teistele teada crDroidist</string>
-    <string name="share_message">Uuri #crDroid kohta @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Jaga crDroidi</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Info LuisROM crDroidi kohta</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Jaga LuisROM crDroidi</string>
+    <string name="share_crdroid_summary">Anna teistele teada LuisROM crDroidist</string>
+    <string name="share_message">Uuri #LuisROM crDroid kohta @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Jaga LuisROM crDroidi</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Me armastame avatud tarkvara, tutvu meiega</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Seadmed ja nende arendajad</string>
     <string name="maintainers_crdroid_summary">Nimekiri toetatud seadmetest ja nende ametlikest arendajatest</string>
     <string name="maintainers_crdroid_error">Ei suutnud laadida seadmete ja nende arendajate nimekirja</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Toeta meid</string>
     <string name="donate_crdroid_summary">Anneta, et toetada arendamist ning meie serverit</string>
-    <string name="donate_team_title">crDroidi tiim</string>
+    <string name="donate_team_title">LuisROM crDroidi tiim</string>
     <string name="donate_team_summary">Anneta, et toetada serveri majutamist, veebilehe ülalpidamist ning üleüldist haldust</string>
-
+    <string name="donate_dev_summary">Põhiarendaja - Anneta õlut või kohvi!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Toitenupp</string>
     <string name="hardware_keys_home_key_title">Kodunupp</string>

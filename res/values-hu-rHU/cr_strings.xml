@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Akkumulátor testreszabása</string>
     <string name="status_bar_logo_category_title">Logó</string>
     <string name="status_bar_misc_category_title">Egyebek</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Logó megjelenítése</string>
     <string name="status_bar_crdroid_logo_summary">Logó megjelenítése az állapotsoron</string>
     <string name="status_bar_crdroid_logo_color">Logó színe</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Logó stílus</string>
     <string name="status_bar_logo_position_right">Jobb</string>
     <string name="status_bar_logo_position_left">Bal</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">A változások aktuális listája</string>
     <string name="changelog_crdroid_summary">Nézze meg a telepített ROM-ban végrehajtott változtatásokat</string>
     <string name="changelog_crdroid_error">Nem lehet betölteni a változáslistát</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">A crDroidról</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">A crDroid ajánlása</string>
-    <string name="share_crdroid_summary">Tudassa másokkal a crDroid létezését</string>
-    <string name="share_message">Tegyen látogatást a https://plus.google.com/communities/118297646046960923906 weboldalon, ahol mindent megtudhat a crDroidról</string>
-    <string name="share_chooser_title">A crDroid ajánlása</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">A LuisROM crDroidról</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">A LuisROM crDroid ajánlása</string>
+    <string name="share_crdroid_summary">Tudassa másokkal a LuisROM crDroid létezését</string>
+    <string name="share_message">Tegyen látogatást a https://plus.google.com/communities/118297646046960923906 weboldalon, ahol mindent megtudhat a LuisROM crDroidról</string>
+    <string name="share_chooser_title">A LuisROM crDroid ajánlása</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Kedveljük a nyílt forráskódot, nézzen meg minket</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Eszközök és közreműködők</string>
     <string name="maintainers_crdroid_summary">Hivatalosan támogatott készülékek és azok felelősei</string>
     <string name="maintainers_crdroid_error">Nem lehet betölteni az Eszközök és közreműködők listáját</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Támogasson bennünket</string>
     <string name="donate_crdroid_summary">Adományozzon a fejlesztésre és a szerver fenntartására</string>
-    <string name="donate_team_title">A crDroid csapata</string>
+    <string name="donate_team_title">A LuisROM crDroid csapata</string>
     <string name="donate_team_summary">Adományozzon, hogy támogassa a szerverbérlést, a weboldal-fenntarást és menedzselést</string>
-
+    <string name="donate_dev_summary">Küldjön egy kávét vagy egy sört a fejlesztőknek!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Bekapcsológomb</string>
     <string name="hardware_keys_home_key_title">Kezdőgomb</string>
@@ -1545,7 +1545,7 @@
     <string name="media_scanner_on_boot_disabled">Ne legyen médiakeresés</string>
     <!-- Reset settings -->
     <string name="reset_settings_title">Beállítások visszaállítása</string>
-    <string name="reset_settings_message">Ez a legtöbb crDroid-beállítás értékét visszaállítja alapértelmezettre a jelenlegi felhasználónál. Szeretné folytatni?</string>
+    <string name="reset_settings_message">Ez a legtöbb LuisROM crDroid-beállítás értékét visszaállítja alapértelmezettre a jelenlegi felhasználónál. Szeretné folytatni?</string>
     <!-- OTA -->
     <string name="ota_crdroid_title">Frissítések</string>
     <string name="ota_crdroid_summary">OTA frissítés ellenőrzése</string>

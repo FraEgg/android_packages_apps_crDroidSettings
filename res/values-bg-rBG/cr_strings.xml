@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Оптимизация на батерията</string>
     <string name="status_bar_logo_category_title">Лого</string>
     <string name="status_bar_misc_category_title">Разни</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Показване на лого</string>
     <string name="status_bar_crdroid_logo_summary">Активирайте, за да се показва лого в лентата на състоянието</string>
     <string name="status_bar_crdroid_logo_color">Цвят на логото</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Стил на логото</string>
     <string name="status_bar_logo_position_right">Отдясно</string>
     <string name="status_bar_logo_position_left">Отляво</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Андроид</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Актуален списък с промени</string>
     <string name="changelog_crdroid_summary">Прегледай промени отваряне в инсталирания РОМ</string>
     <string name="changelog_crdroid_error">Не може да се зареди списъкът с промените</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">За crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Дял crDroid</string>
-    <string name="share_crdroid_summary">Нека другите да знаят за crDroid</string>
-    <string name="share_message">Вижте какъв #crDroid е всичко за @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Дял crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">За LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Дял LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Нека другите да знаят за LuisROM crDroid</string>
+    <string name="share_message">Вижте какъв #LuisROM crDroid е всичко за @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Дял LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Ние обичаме отворен източник, проверете ни</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Устройства и отговорници</string>
     <string name="maintainers_crdroid_summary">Списък на поддържаните устройства и техните официални отговорници</string>
     <string name="maintainers_crdroid_error">Не може да зареди списък с устройства и отговорници</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Вашата подкрепа</string>
     <string name="donate_crdroid_summary">Дарения в подкрепа на развитието и нашия сървър</string>
-    <string name="donate_team_title">crDroid екип</string>
+    <string name="donate_team_title">LuisROM crDroid екип</string>
     <string name="donate_team_summary">Дари в подкрепа на хостинг сървър, поддръжка на сайта и цялостното управление</string>
-
+    <string name="donate_dev_summary">Разработчик на ядро - дари за почерпка с бира или кафе!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Бутон \"Захранване\"</string>
     <string name="hardware_keys_home_key_title">Начало</string>

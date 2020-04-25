@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Кастомізація батареї</string>
     <string name="status_bar_logo_category_title">Логотип</string>
     <string name="status_bar_misc_category_title">Різне</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Показувати логотип</string>
     <string name="status_bar_crdroid_logo_summary">Увімкнути, щоб показати логотип в панелі стану</string>
     <string name="status_bar_crdroid_logo_color">Колір логотипу</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Стиль логотипу</string>
     <string name="status_bar_logo_position_right">Праворуч</string>
     <string name="status_bar_logo_position_left">Ліворуч</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Андроїд</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Поточний список змін</string>
     <string name="changelog_crdroid_summary">Переглянути список змін в поточній прошивці</string>
     <string name="changelog_crdroid_error">Помилка завантаження списку змін</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Про crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Поділитись crDroid</string>
-    <string name="share_crdroid_summary">Нехай інші знають про crDroid</string>
-    <string name="share_message">Перевірити, що #crDroid це все про @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Поділитись crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Про LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Поділитись LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Нехай інші знають про LuisROM crDroid</string>
+    <string name="share_message">Перевірити, що #LuisROM crDroid це все про @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Поділитись LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Ми любимо з відкритим вихідним кодом, перевірте нас</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Пристроїв та операторів</string>
     <string name="maintainers_crdroid_summary">Список підтримуваних пристроїв і їх офіційними супроводжуючими</string>
     <string name="maintainers_crdroid_error">Не вдалося завантажити пристроїв та супроводжуючих список</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Підтримати нас</string>
     <string name="donate_crdroid_summary">Пожертви на підтримку розвитку і нашого сервера</string>
-    <string name="donate_team_title">Команда crDroid</string>
+    <string name="donate_team_title">Команда LuisROM crDroid</string>
     <string name="donate_team_summary">Пожертвувати на підтримку хостинга, сайту та розвитку проекту</string>
-
+    <string name="donate_dev_summary">Головний розробник – пожертвувати на пиво чи каву!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Кнопка живлення</string>
     <string name="hardware_keys_home_key_title">Кнопка \"Додому\"</string>

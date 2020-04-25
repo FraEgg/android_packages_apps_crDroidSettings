@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Battery customizations</string>
     <string name="status_bar_logo_category_title">Logotyp</string>
     <string name="status_bar_misc_category_title">Övrigt</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Visa logotyp</string>
     <string name="status_bar_crdroid_logo_summary">Enable to display logo in the status bar</string>
     <string name="status_bar_crdroid_logo_color">Färg på logotyp</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Logo style</string>
     <string name="status_bar_logo_position_right">Höger</string>
     <string name="status_bar_logo_position_left">Vänster</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Nuvarande ändringslogg</string>
     <string name="changelog_crdroid_summary">View changes in the ROM installed</string>
     <string name="changelog_crdroid_error">Unable to load changelog</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Om crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Dela crDroid</string>
-    <string name="share_crdroid_summary">Let others know about crDroid</string>
-    <string name="share_message">Check out what #crDroid is all about @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Dela crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Om LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Dela LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Let others know about LuisROM crDroid</string>
+    <string name="share_message">Check out what #LuisROM crDroid is all about @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Dela LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">We love open source, check us out</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Enheter och utvecklare</string>
     <string name="maintainers_crdroid_summary">Lista över enheter som stöds och deras officiella utvecklare</string>
     <string name="maintainers_crdroid_error">Unable to load devices and maintainers list</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Stöd oss</string>
     <string name="donate_crdroid_summary">Donera för att stödja utveckling och vår server</string>
-    <string name="donate_team_title">crDroid teamet</string>
+    <string name="donate_team_title">LuisROM crDroid teamet</string>
     <string name="donate_team_summary">Donate to support server hosting, site uptime and overall management</string>
-    <string name="donate_dev_summary">Core LuisROM developer - Donate for a beer or a coffee!</string>
+    <string name="donate_dev_summary">Core developer - Donate for a beer or a coffee!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Strömknapp</string>
     <string name="hardware_keys_home_key_title">Hemknapp</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Personalizzazione della batteria</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Varie</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Mostra Logo</string>
     <string name="status_bar_crdroid_logo_summary">Abilita per mostrare il logo nella barra di stato</string>
     <string name="status_bar_crdroid_logo_color">Colore logo</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Stile logo</string>
     <string name="status_bar_logo_position_right">Destra</string>
     <string name="status_bar_logo_position_left">Sinistra</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Modifiche correnti</string>
     <string name="changelog_crdroid_summary">Visualizza le modifiche della ROM installata</string>
     <string name="changelog_crdroid_error">Impossibile caricare le modifiche</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Informazioni su crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Condividi crDroid</string>
-    <string name="share_crdroid_summary">Fai conoscere agli altri su crDroid</string>
-    <string name="share_message">Scopri di cosa si tratta sulle informazioni di crDroid @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Condividi crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Informazioni su LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Condividi LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Fai conoscere agli altri su LuisROM crDroid</string>
+    <string name="share_message">Scopri di cosa si tratta sulle informazioni di LuisROM crDroid @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Condividi LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Noi amiamo l\'open source, vieni a trovarci</string>
     <string name="crdroid_google_plus_title">Google Plus</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Dispositivi e manutentori</string>
     <string name="maintainers_crdroid_summary">Elenco dei dispositivi supportati e dei loro manutentori ufficiali</string>
     <string name="maintainers_crdroid_error">Impossibile caricare i dispositivi e i manutentori</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Supportaci</string>
     <string name="donate_crdroid_summary">Donate per sostenere lo sviluppo e il nostro server</string>
-    <string name="donate_team_title">team crDroid</string>
+    <string name="donate_team_title">team LuisROM crDroid</string>
     <string name="donate_team_summary">Fai una donazione per supportare l\'hosting del server, l\'uptime del sito e la gestione complessiva</string>
-
+    <string name="donate_dev_summary">Sviluppatore principale - dona per una birra o un caffè!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Pulsante alimentazione</string>
     <string name="hardware_keys_home_key_title">Pulsante home</string>

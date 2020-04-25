@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,16 +439,16 @@
     <string name="status_bar_battery_category_title">電池自訂</string>
     <string name="status_bar_logo_category_title">圖示</string>
     <string name="status_bar_misc_category_title">雜項</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">顯示圖示</string>
-    <string name="status_bar_crdroid_logo_summary">在狀態列顯示 crDroid 的 logo</string>
+    <string name="status_bar_crdroid_logo_summary">在狀態列顯示 LuisROM crDroid 的 logo</string>
     <string name="status_bar_crdroid_logo_color">圖示顏色</string>
     <string name="status_bar_crdroid_logo_position">標識位置</string>
     <string name="status_bar_crdroid_logo_position_summary">選擇在哪一側顯示標識，左邊還是右邊？</string>
     <string name="status_bar_crdroid_logo_style">圖示樣式</string>
     <string name="status_bar_logo_position_right">右邊</string>
     <string name="status_bar_logo_position_left">左</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">安卓</string>
     <string name="status_bar_logo_style_apple">蘋果</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">更新日誌​​​​​</string>
     <string name="changelog_crdroid_summary">查看 ROM 的最近更新日誌</string>
     <string name="changelog_crdroid_error">無法載入更新日誌</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">關於 crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">分享 crDroid</string>
-    <string name="share_crdroid_summary">讓別人知道 crDroid</string>
-    <string name="share_message">看看 #crDroid https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">分享 crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">關於 LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">分享 LuisROM crDroid</string>
+    <string name="share_crdroid_summary">讓別人知道 LuisROM crDroid</string>
+    <string name="share_message">看看 #LuisROM crDroid https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">分享 LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">我們愛開源, 檢查我們</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">設備和維護者</string>
     <string name="maintainers_crdroid_summary">設備列表和官方維護者</string>
     <string name="maintainers_crdroid_error">無法載入設備和維護器列表</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">支持我們</string>
     <string name="donate_crdroid_summary">捐贈支持開發和我們的伺服器</string>
-    <string name="donate_team_title">crDroid 團隊</string>
+    <string name="donate_team_title">LuisROM crDroid 團隊</string>
     <string name="donate_team_summary">為支援伺服器託管、網站正常執行時間和總體管理提供捐助</string>
-
+    <string name="donate_dev_summary">核心開發商-捐贈啤酒或咖啡!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">電源鍵</string>
     <string name="hardware_keys_home_key_title">Home 鍵</string>
@@ -1545,7 +1545,7 @@
     <string name="media_scanner_on_boot_disabled">不掃描媒體</string>
     <!-- Reset settings -->
     <string name="reset_settings_title">重設設定</string>
-    <string name="reset_settings_message">這將把大多數 crDroid 設置重置為當前使用者的預設值。您要繼續嗎？</string>
+    <string name="reset_settings_message">這將把大多數 LuisROM crDroid 設置重置為當前使用者的預設值。您要繼續嗎？</string>
     <!-- OTA -->
     <string name="ota_crdroid_title">更新</string>
     <string name="ota_crdroid_summary">檢查您的設備的 OTA 更新和連結</string>

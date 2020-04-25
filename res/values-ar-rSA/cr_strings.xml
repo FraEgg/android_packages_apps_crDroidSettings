@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">تخصيص البطارية</string>
     <string name="status_bar_logo_category_title">شعار</string>
     <string name="status_bar_misc_category_title">خيارات متنوعة</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">إظهار الشعار</string>
     <string name="status_bar_crdroid_logo_summary">تمكين عرض الشعار على شريط الحالة</string>
     <string name="status_bar_crdroid_logo_color">لون الشعار</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">نمط الشعار</string>
     <string name="status_bar_logo_position_right">يمين</string>
     <string name="status_bar_logo_position_left">يسار</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">أندرويد</string>
     <string name="status_bar_logo_style_apple">آبل</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">سجل التغييرات</string>
     <string name="changelog_crdroid_summary">عرض التغييرات في ROM المثبتة</string>
     <string name="changelog_crdroid_error">غير قادر على تحميل سجل التغييرات</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">حول crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">مشاركة crDroid</string>
-    <string name="share_crdroid_summary">اسمحوا للآخرين بمعرفة crDroid</string>
-    <string name="share_message">تعرف على ما هو #crDroid حول @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">مشاركة crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">حول LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">مشاركة LuisROM crDroid</string>
+    <string name="share_crdroid_summary">اسمحوا للآخرين بمعرفة LuisROM crDroid</string>
+    <string name="share_message">تعرف على ما هو #LuisROM crDroid حول @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">مشاركة LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">نحن نحب المصدر المفتوح، تحقق منا</string>
     <string name="crdroid_google_plus_title">جوجل +</string>
@@ -1043,11 +1043,12 @@
     <string name="maintainers_crdroid_title">الاجهزة الرسمية والمشرفون</string>
     <string name="maintainers_crdroid_summary">قائمة الأجهزة المدعومة ومراقبيها الرسميين</string>
     <string name="maintainers_crdroid_error">غير قادر على تحميل قائمة، الأجهزة و المشرفين</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">ادعمنا</string>
     <string name="donate_crdroid_summary">التبرع لدعم المطورين وخدماتنا</string>
-    <string name="donate_team_title">crDroid فريق</string>
+    <string name="donate_team_title">LuisROM crDroid فريق</string>
     <string name="donate_team_summary">التبرع لدعم استضافة الخادم ووقت تشغيل الموقع والإدارة العامة</string>
+    <string name="donate_dev_summary">المطور الأساسي - التبرع للحصول على قهوة!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">زر التشغيل</string>
     <string name="hardware_keys_home_key_title">زر الصفحة الرئيسية</string>

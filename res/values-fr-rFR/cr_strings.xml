@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
     <string name="crdroid_settings_title">Paramètres LuisROM crDroid</string>
-    <string name="crdroid_settings_summary">Les bonnes choses de crDroid</string>
+    <string name="crdroid_settings_summary">Les bonnes choses de LuisROM crDroid</string>
     <string name="crdroid_personalization_category">Personnalisation</string>
     <string name="crdroid_addons_category">Suppléments</string>
     <!-- Personalization Categories -->
@@ -439,16 +439,16 @@
     <string name="status_bar_battery_category_title">Personnalisation de l’icône de batterie</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Divers</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Afficher le Logo</string>
-    <string name="status_bar_crdroid_logo_summary">Activer pour afficher le logo crDroid dans la barre d\'état</string>
+    <string name="status_bar_crdroid_logo_summary">Activer pour afficher le logo LuisROM crDroid dans la barre d\'état</string>
     <string name="status_bar_crdroid_logo_color">Couleur du logo</string>
     <string name="status_bar_crdroid_logo_position">Position du logo</string>
     <string name="status_bar_crdroid_logo_position_summary">Choisir de quel côté pour afficher le logo, à gauche ou à droite</string>
     <string name="status_bar_crdroid_logo_style">Style du logo</string>
     <string name="status_bar_logo_position_right">Droite</string>
     <string name="status_bar_logo_position_left">Gauche</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,15 +1021,15 @@
     <string name="changelog_crdroid_title">Dernier journal des changements</string>
     <string name="changelog_crdroid_summary">Afficher les modifications dans la ROM installée</string>
     <string name="changelog_crdroid_error">Impossible de charger la note de mise à jour</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">À propos de crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Partager crDroid</string>
-    <string name="share_crdroid_summary">Informez les autres sur crDroid</string>
-    <string name="share_message">Accéder au blog de #crDroid @
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">À propos de LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Partager LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Informez les autres sur LuisROM crDroid</string>
+    <string name="share_message">Accéder au blog de #LuisROM crDroid @
 https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Partager crDroid</string>
-    <!-- Sites crDroid -->
+    <string name="share_chooser_title">Partager LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Nous aimons l\'open source, consulter notre Github</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1044,12 +1044,12 @@ https://plus.google.com/communities/118297646046960923906</string>
     <string name="maintainers_crdroid_title">Appareils et mainteneurs</string>
     <string name="maintainers_crdroid_summary">Liste des appareils supportés et de leurs mainteneurs officiels</string>
     <string name="maintainers_crdroid_error">Impossible de charger la liste des appareils et des mainteneurs</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Soutenez-nous</string>
     <string name="donate_crdroid_summary">Faites un don pour soutenir le développement et nos serveurs</string>
-    <string name="donate_team_title">Equipe crDroid</string>
+    <string name="donate_team_title">Equipe LuisROM crDroid</string>
     <string name="donate_team_summary">Faire un don pour contribuer aux serveurs d’hébergement, à la maintenance du site et à la gestion globale du projet</string>
-
+    <string name="donate_dev_summary">Développeur principal - faire un don pour une bière ou un café !</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Bouton Marche/Arrêt</string>
     <string name="hardware_keys_home_key_title">Bouton Accueil</string>

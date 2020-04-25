@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
     <string name="crdroid_settings_title">LuisROM crDroid Einstellungen</string>
-    <string name="crdroid_settings_summary">Öffne LuisROM Einstellungen! Wuff</string>
+    <string name="crdroid_settings_summary">Offene Gutherzigkeit</string>
     <string name="crdroid_personalization_category">Personalisierung</string>
     <string name="crdroid_addons_category">Addons</string>
     <!-- Personalization Categories -->
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Akku-Anpassungen</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Sonstiges</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Zeige Logo</string>
     <string name="status_bar_crdroid_logo_summary">Aktiviere Logo in der Statusleiste anzeigen</string>
     <string name="status_bar_crdroid_logo_color">Logo-Farbe</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Logo-Stil</string>
     <string name="status_bar_logo_position_right">Rechts</string>
     <string name="status_bar_logo_position_left">Links</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Aktueller Changelog</string>
     <string name="changelog_crdroid_summary">Zeige Änderungen in der installierten ROM</string>
     <string name="changelog_crdroid_error">Changelog laden nicht möglich</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Über crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Teile crDroid</string>
-    <string name="share_crdroid_summary">Informiere andere über crDroid</string>
-    <string name="share_message">Finde heraus, was es mit #crDroid Android auf sich hat @ https://crdroid.net/</string>
-    <string name="share_chooser_title">Teile crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Über LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Teile LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Informiere andere über LuisROM crDroid</string>
+    <string name="share_message">Finde heraus, was es mit #LuisROM crDroid Android auf sich hat @ https://www.luis-builds.de/</string>
+    <string name="share_chooser_title">Teile LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Wir lieben Open Source, teste uns</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,11 +1043,12 @@
     <string name="maintainers_crdroid_title">Geräte und Betreuer</string>
     <string name="maintainers_crdroid_summary">Liste der unterstützten Geräte und deren offizielle Betreuer</string>
     <string name="maintainers_crdroid_error">Die Liste der Geräte und Betreuer kann nicht geladen werden</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Unterstütze uns</string>
-    <string name="donate_team_summary">Spenden um Server, Verfügbarkeit der Website und allgemeine Pflege zu unterstützen</string>
-    <string name="donate_team_title">crDroid Team</string>
-    <string name="donate_dev_summary">Core LuisROM Entwickler - Spende ein Bier oder einen Kaffee!</string>
+    <string name="donate_crdroid_summary">Spende, um die Entwicklung und unseren Server zu unterstützen</string>
+    <string name="donate_team_title">LuisROM crDroid Team</string>
+    <string name="donate_team_summary">Spende für Server-Hosting-Unterstützung, Webseitenverfügbarkeit und allgemeine Verwaltung</string>
+    <string name="donate_dev_summary">Kernentwickler - Spende ein Bier oder einen Kaffee!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Ein-/Aus-Taste</string>
     <string name="hardware_keys_home_key_title">Home-Taste</string>
