@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Batterij aanpassingen</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Overig</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Logo</string>
     <string name="status_bar_crdroid_logo_summary">Inschakelen voor logo</string>
     <string name="status_bar_crdroid_logo_color">Logo kleur</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Logo stijl</string>
     <string name="status_bar_logo_position_right">Rechts</string>
     <string name="status_bar_logo_position_left">Links</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Huidige veranderingen</string>
     <string name="changelog_crdroid_summary">Bekijk wijzigingen in de geïnstalleerde rom</string>
     <string name="changelog_crdroid_error">Kan changelog niet laden</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Over crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Deel crDroid</string>
-    <string name="share_crdroid_summary">Laat anderen weten over crDroid</string>
-    <string name="share_message">Kijk hier waar crDroid allemaal over gaat @ https://plus.google.com/u/0/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Deel crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Over LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Deel LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Laat anderen weten over LuisROM crDroid</string>
+    <string name="share_message">Kijk hier waar LuisROM crDroid allemaal over gaat @ https://plus.google.com/u/0/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Deel LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">Github</string>
     <string name="crdroid_source_summary">Bezoek ons git team</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1040,15 +1040,15 @@
     <string name="crdroid_translate_title">Vertalingen</string>
     <string name="crdroid_translate_summary">Help met de localisatie van de rom in jouw taal!</string>
     <!-- Maintainers -->
-    <string name="maintainers_crdroid_title">crDroid maintainers</string>
+    <string name="maintainers_crdroid_title">LuisROM crDroid maintainers</string>
     <string name="maintainers_crdroid_summary">Lijst met ondersteunde apparaten en hun officiële maintainers</string>
     <string name="maintainers_crdroid_error">Kan maintainers lijst niet laden</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Steun ons</string>
     <string name="donate_crdroid_summary">Doneren ter ondersteuning van de ontwikkeling en onze server</string>
-    <string name="donate_team_title">crDroid team</string>
+    <string name="donate_team_title">LuisROM crDroid team</string>
     <string name="donate_team_summary">Doneer ter ondersteuning van de server hosting, site uptime en algemeen beheer</string>
-    <string name="donate_dev_summary">Core LuisROM developer - doneren voor een biertje of een kopje koffie!</string>
+    <string name="donate_dev_summary">Core developer - doneren voor een biertje of een kopje koffie!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Power knop</string>
     <string name="hardware_keys_home_key_title">Home knop</string>

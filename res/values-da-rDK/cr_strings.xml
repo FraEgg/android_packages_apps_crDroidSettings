@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Batteritilpasninger</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Diverse</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Vis Logo</string>
     <string name="status_bar_crdroid_logo_summary">Aktivér visning af logo på statusbjælken</string>
     <string name="status_bar_crdroid_logo_color">Logofarve</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Logostil</string>
     <string name="status_bar_logo_position_right">Højre</string>
     <string name="status_bar_logo_position_left">Venstre</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Aktuel ændringslog</string>
     <string name="changelog_crdroid_summary">Vis ændringer i den installerede ROM</string>
     <string name="changelog_crdroid_error">Kunne ikke indlæse ændringsoversigt</string>
-    <!-- About crDroid -->
+    <!-- About LuisROM crDroid -->
     <string name="about_crdroid">Om AirDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Del crDroid</string>
-    <string name="share_crdroid_summary">Fortæl andre om crDroid</string>
-    <string name="share_message">Tjek ud, hvad #crDroid handler om @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Del crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Del LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Fortæl andre om LuisROM crDroid</string>
+    <string name="share_message">Tjek ud, hvad #LuisROM crDroid handler om @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Del LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Vi elsker open source, tjek os ud</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Enheder og vedligeholdere</string>
     <string name="maintainers_crdroid_summary">Liste over enheder og deres officielle vedligeholdere</string>
     <string name="maintainers_crdroid_error">Kan ikke indlæse liste over enheder og vedligeholdere</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Støt os</string>
     <string name="donate_crdroid_summary">Donér for at støtte udvikling og vores server</string>
-    <string name="donate_team_title">crDroid-team</string>
+    <string name="donate_team_title">LuisROM crDroid-team</string>
     <string name="donate_team_summary">Donér for at støtte server-hosting, opetid på webstedet og generel håndterng</string>
-
+    <string name="donate_dev_summary">Kerneudvikler - Donér til en øl eller en kop kaffe!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Tænd-/Slukknap</string>
     <string name="hardware_keys_home_key_title">Hjemknap</string>
@@ -1545,7 +1545,7 @@
     <string name="media_scanner_on_boot_disabled">Skan ikke medier</string>
     <!-- Reset settings -->
     <string name="reset_settings_title">Nulstil indstillinger</string>
-    <string name="reset_settings_message">Dette vil nulstille de fleste crDroid-indstillinger til deres standardværdier for den aktuelle bruger. Fortsæt?</string>
+    <string name="reset_settings_message">Dette vil nulstille de fleste LuisROM crDroid-indstillinger til deres standardværdier for den aktuelle bruger. Fortsæt?</string>
     <!-- OTA -->
     <string name="ota_crdroid_title">Opdateringer</string>
     <string name="ota_crdroid_summary">Se efter OTA-opdatering og links til enheden</string>

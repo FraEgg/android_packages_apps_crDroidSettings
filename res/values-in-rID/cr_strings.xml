@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Kustomisasi baterai</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Lain-lain</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Tampilkan Logo</string>
     <string name="status_bar_crdroid_logo_summary">Aktifkan untuk menampilkan logo di status bar</string>
     <string name="status_bar_crdroid_logo_color">Warna logo</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Gaya logo</string>
     <string name="status_bar_logo_position_right">Kanan</string>
     <string name="status_bar_logo_position_left">Kiri</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Changelog saat ini</string>
     <string name="changelog_crdroid_summary">Lihat perubahan pada ROM terinstall</string>
     <string name="changelog_crdroid_error">Tidak dapat memuat changelog</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Tentang crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Bagikan crDroid</string>
-    <string name="share_crdroid_summary">Biarkan orang lain tahu tentang crDroid</string>
-    <string name="share_message">Periksa tentang apa #crDroid itu di @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Bagikan crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Tentang LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Bagikan LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Biarkan orang lain tahu tentang LuisROM crDroid</string>
+    <string name="share_message">Periksa tentang apa #LuisROM crDroid itu di @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Bagikan LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Kami cinta open source, lihat kami</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Perangkat dan pengelola</string>
     <string name="maintainers_crdroid_summary">Daftar perangkat yang didukung dan pengelola resmi mereka</string>
     <string name="maintainers_crdroid_error">Dapat memuat perangkat dan pengelola daftar</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Dukungan kami</string>
     <string name="donate_crdroid_summary">Donasi untuk mendukung pengembangan dan server kami</string>
-    <string name="donate_team_title">Tim crDroid</string>
+    <string name="donate_team_title">Tim LuisROM crDroid</string>
     <string name="donate_team_summary">Donasi untuk mendukung server hosting, keaktifan situs serta pemanajemenan secara keseluruhan</string>
-
+    <string name="donate_dev_summary">Pengembang inti - donasi untuk sebotol bir atau segelas kopi!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Tombol Power</string>
     <string name="hardware_keys_home_key_title">Tombol Home</string>

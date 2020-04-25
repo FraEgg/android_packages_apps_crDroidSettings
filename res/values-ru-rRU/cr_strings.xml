@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Настройки батареи</string>
     <string name="status_bar_logo_category_title">Логотип</string>
     <string name="status_bar_misc_category_title">Разное</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Показать логотип</string>
     <string name="status_bar_crdroid_logo_summary">Включите для отображения логотипа в строке состояния</string>
     <string name="status_bar_crdroid_logo_color">Цвет логотипа</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Стиль логотипа</string>
     <string name="status_bar_logo_position_right">Справа</string>
     <string name="status_bar_logo_position_left">Слева</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Андроид</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Текущий список изменений</string>
     <string name="changelog_crdroid_summary">Просмотр изменений в текущей прошивки</string>
     <string name="changelog_crdroid_error">Невозможно загрузить список изменений</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">О crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Рассказать о crDroid</string>
-    <string name="share_crdroid_summary">Пусть другие узнают о crDroid</string>
-    <string name="share_message">Все о #crDroid @ https://plus.google.com/u/0/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Рассказать о crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">О LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Рассказать о LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Пусть другие узнают о LuisROM crDroid</string>
+    <string name="share_message">Все о #LuisROM crDroid @ https://plus.google.com/u/0/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Рассказать о LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">Github</string>
     <string name="crdroid_source_summary">Исходный код проекта</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Устройства и сопровождающие</string>
     <string name="maintainers_crdroid_summary">Список поддерживаемых устройств и их официальные сопровождающие</string>
     <string name="maintainers_crdroid_error">Невозможно загрузить список</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Поддержать нас</string>
     <string name="donate_crdroid_summary">Пожертвовать на разработку и на наш сервер</string>
-    <string name="donate_team_title">Команда crDroid</string>
+    <string name="donate_team_title">Команда LuisROM crDroid</string>
     <string name="donate_team_summary">Пожертвовать на поддержку хостинга, сайта и общие задачи</string>
-
+    <string name="donate_dev_summary">Пожертвовать создателю на пиво или кофе!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Кнопка питания</string>
     <string name="hardware_keys_home_key_title">Кнопка «Домой»</string>

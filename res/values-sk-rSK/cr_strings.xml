@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Vlastné nastavenia batérie</string>
     <string name="status_bar_logo_category_title">Logo</string>
     <string name="status_bar_misc_category_title">Rôzne</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Zobraziť logo</string>
     <string name="status_bar_crdroid_logo_summary">Povolenie zobrazenie loga v stavovom riadku</string>
     <string name="status_bar_crdroid_logo_color">Farba loga</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Štýl loga</string>
     <string name="status_bar_logo_position_right">Vpravo</string>
     <string name="status_bar_logo_position_left">Vľavo</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Aktuálny zoznam zmien</string>
     <string name="changelog_crdroid_summary">Zobraziť zmeny v nainštalovanej ROM</string>
     <string name="changelog_crdroid_error">Nie je možné načítať zoznam zmien</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">O crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Zdieľať crDroid</string>
-    <string name="share_crdroid_summary">Dajte ostatným vedieť o crDroid</string>
-    <string name="share_message">Pozrite sa o čom #crDroid je @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Zdieľať crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">O LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Zdieľať LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Dajte ostatným vedieť o LuisROM crDroid</string>
+    <string name="share_message">Pozrite sa o čom #LuisROM crDroid je @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Zdieľať LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Máme radi open source, pozrite sa na nás</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Zariadenia a správcovia</string>
     <string name="maintainers_crdroid_summary">Zoznam podporovaných zariadení a ich oficiálni správcovia</string>
     <string name="maintainers_crdroid_error">Nedá sa načítať zoznam zariadení a správcov</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Podporte nás</string>
     <string name="donate_crdroid_summary">Prispejte na podporu rozvoja a na náš server</string>
-    <string name="donate_team_title">crDroid tím</string>
+    <string name="donate_team_title">LuisROM crDroid tím</string>
     <string name="donate_team_summary">Prispejte na podporu hostingového servera, prevádzku a celkovú správu webu</string>
-
+    <string name="donate_dev_summary">Hlavný vývojár - Darujte na pivo alebo kávu!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Tlačidlo Napájanie</string>
     <string name="hardware_keys_home_key_title">Tlačidlo Domov</string>

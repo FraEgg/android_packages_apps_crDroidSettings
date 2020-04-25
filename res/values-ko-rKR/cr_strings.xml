@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">배터리 아이콘 사용자 지정</string>
     <string name="status_bar_logo_category_title">로고</string>
     <string name="status_bar_misc_category_title">기타 설정</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">로고 보이기</string>
     <string name="status_bar_crdroid_logo_summary">상태 표시줄에 로고를 표시할 수 있도록 합니다</string>
     <string name="status_bar_crdroid_logo_color">로고 색상</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">로고 스타일</string>
     <string name="status_bar_logo_position_right">오른쪽</string>
     <string name="status_bar_logo_position_left">왼쪽</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">안드로이드</string>
     <string name="status_bar_logo_style_apple">사과</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">현재 changelog</string>
     <string name="changelog_crdroid_summary">설치된 ROM의 변경 사항을 봅니다.</string>
     <string name="changelog_crdroid_error">변경 사항을 읽을 수 없습니다.</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">crDroid에 관하여</string>
-    <!-- Share crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">LuisROM crDroid에 관하여</string>
+    <!-- Share LuisROM crDroid -->
     <string name="share_crdroid_title">CrDroid 공유</string>
     <string name="share_crdroid_summary">CrDroid에 대해 다른 사람들에게 알리기</string>
-    <string name="share_message">#crDroid가 무엇인지 확인하려면 @ https://plus.google.com/communities/118297646046960923906을 확인하십시오.</string>
+    <string name="share_message">#LuisROM crDroid가 무엇인지 확인하려면 @ https://plus.google.com/communities/118297646046960923906을 확인하십시오.</string>
     <string name="share_chooser_title">CrDroid 공유</string>
-    <!-- Sites crDroid -->
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">우리 사랑 오픈 소스, 확인 하십시오</string>
     <string name="crdroid_google_plus_title">구글+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">기기 및 메인테이너</string>
     <string name="maintainers_crdroid_summary">지원 되는 장치 목록 및 그들의 공식적인 관리자</string>
     <string name="maintainers_crdroid_error">장치 및 관리자 목록을 로드할 수 없습니다.</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">우리를 지원합니다</string>
     <string name="donate_crdroid_summary">개발 및 우리의 서버를 지원 하기 위해 기부</string>
-    <string name="donate_team_title">crDroid 팀</string>
+    <string name="donate_team_title">LuisROM crDroid 팀</string>
     <string name="donate_team_summary">서버 호스팅 지원, 가동 시간 및 전반적인 관리 사이트 기부</string>
-
+    <string name="donate_dev_summary">핵심 개발자 - 맥주 나 커피를 기부하십시오!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">전원 버튼</string>
     <string name="hardware_keys_home_key_title">홈 버튼</string>

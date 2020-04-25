@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- App Title -->
-    <string name="crdroid_settings_title">LuisROM crட்ராய்டு அமைப்புகள்</string>
+    <string name="crdroid_settings_title">crட்ராய்டு அமைப்புகள்</string>
     <string name="crdroid_settings_summary">நன்மைக்கு திற</string>
     <string name="crdroid_personalization_category">தனிப்பயனாக்கம்</string>
     <string name="crdroid_addons_category">துணைப்பயன்களை</string>
@@ -443,7 +443,7 @@ choose_action_title
     <string name="status_bar_battery_category_title">பேட்டரி தனிப்பயனாக்கல்</string>
     <string name="status_bar_logo_category_title">சின்னம்</string>
     <string name="status_bar_misc_category_title">பல்வகை</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">சின்னத்தைக் காட்டு</string>
     <string name="status_bar_crdroid_logo_summary">நிலைப் பட்டியில் சின்னம் காண்பிக்க உதவும்</string>
     <string name="status_bar_crdroid_logo_color">சின்னத்தின் வண்ணம்</string>
@@ -452,7 +452,7 @@ choose_action_title
     <string name="status_bar_crdroid_logo_style">சின்னம் பாணி</string>
     <string name="status_bar_logo_position_right">வலது</string>
     <string name="status_bar_logo_position_left">இடது</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">ஆப்பிள்</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1028,14 +1028,14 @@ fling_left_up_swipe
     <string name="changelog_crdroid_title">Current changelog</string>
     <string name="changelog_crdroid_summary">View changes in the ROM installed</string>
     <string name="changelog_crdroid_error">Unable to load changelog</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">crDroid ஐப் பற்றி</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">crDroid ஐப் பகிர்</string>
-    <string name="share_crdroid_summary">Let others know about crDroid</string>
-    <string name="share_message">Check out what #crDroid is all about @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">crDroid ஐப் பகிர்</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">LuisROM crDroid ஐப் பற்றி</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">LuisROM crDroid ஐப் பகிர்</string>
+    <string name="share_crdroid_summary">Let others know about LuisROM crDroid</string>
+    <string name="share_message">Check out what #LuisROM crDroid is all about @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">LuisROM crDroid ஐப் பகிர்</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">நங்கள் திற மூலத்தை நேசிக்கிறோம், சரிபார்க்கவும்</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1050,12 +1050,12 @@ fling_left_up_swipe
     <string name="maintainers_crdroid_title">Devices and maintainers</string>
     <string name="maintainers_crdroid_summary">List of supported devices and their official maintainers</string>
     <string name="maintainers_crdroid_error">Unable to load devices and maintainers list</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Support us</string>
     <string name="donate_crdroid_summary">Donate to support development and our server</string>
-    <string name="donate_team_title">crDroid குழு</string>
+    <string name="donate_team_title">LuisROM crDroid குழு</string>
     <string name="donate_team_summary">Donate to support server hosting, site uptime and overall management</string>
-    <string name="donate_dev_summary">Core LuisROM developer - Donate for a beer or a coffee!</string>
+    <string name="donate_dev_summary">Core developer - Donate for a beer or a coffee!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">பவர் பொத்தான்</string>
     <string name="hardware_keys_home_key_title">முகப்பு பொத்தான்</string>

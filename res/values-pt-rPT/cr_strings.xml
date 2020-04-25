@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Customizações da bateria</string>
     <string name="status_bar_logo_category_title">Logótipo</string>
     <string name="status_bar_misc_category_title">Diversos</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Mostrar logótipo</string>
     <string name="status_bar_crdroid_logo_summary">Exibir o logotipo na barra de estado</string>
     <string name="status_bar_crdroid_logo_color">Cor do logotipo</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Estilo do logotipo</string>
     <string name="status_bar_logo_position_right">Direita</string>
     <string name="status_bar_logo_position_left">Esquerda</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Ver as mudanças</string>
     <string name="changelog_crdroid_summary">Visualizar as alterações na ROM instalada</string>
     <string name="changelog_crdroid_error">Não foi possível carregar o registro de mudanças</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Acerca da crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Partilhar a crDroid</string>
-    <string name="share_crdroid_summary">Deixe que outros saibam sobre a crDroid</string>
-    <string name="share_message">Veja o que o #crDroid é sobre @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Compartilhar crDroid</string>
-    <!-- Sites crDroid -->
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Acerca da LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Partilhar a LuisROM crDroid</string>
+    <string name="share_crdroid_summary">Deixe que outros saibam sobre a LuisROM crDroid</string>
+    <string name="share_message">Veja o que o #LuisROM crDroid é sobre @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Compartilhar LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Nós gostamos de código aberto, confira-nos!</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,12 +1043,12 @@
     <string name="maintainers_crdroid_title">Dispositivos e mantenedores</string>
     <string name="maintainers_crdroid_summary">Lista de dispositivos suportados e os seus mantenedores oficiais</string>
     <string name="maintainers_crdroid_error">Não é possível carregar a lista de dispositivos e mantenedores</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Apoie-nos</string>
     <string name="donate_crdroid_summary">Doar para apoiar o desenvolvimento e o nosso servidor</string>
-    <string name="donate_team_title">equipa crDroid</string>
+    <string name="donate_team_title">equipa LuisROM crDroid</string>
     <string name="donate_team_summary">Doe para dar suporte a hospedagem de servidor, tempo de atividade do site e na gestão geral</string>
-
+    <string name="donate_dev_summary">Desenvolvedor principal - Doe para uma cerveja ou um café!</string>
     <!-- Button settings -->
     <string name="hardware_keys_power_key_title">Botão ligar/desligar</string>
     <string name="hardware_keys_home_key_title">Botão Início</string>

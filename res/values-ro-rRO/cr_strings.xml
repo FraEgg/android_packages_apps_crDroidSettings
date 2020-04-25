@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-     Copyright (C) 2016-2020 crDroid Android Project
+     Copyright (C) 2016-2020 LuisROM crDroid Android Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -439,7 +439,7 @@
     <string name="status_bar_battery_category_title">Tùy biến biểu tượng pin</string>
     <string name="status_bar_logo_category_title">Biểu tượng</string>
     <string name="status_bar_misc_category_title">Khác</string>
-    <!-- Statusbar crDroid logo -->
+    <!-- Statusbar LuisROM crDroid logo -->
     <string name="status_bar_crdroid_logo_title">Hiển thị Logo</string>
     <string name="status_bar_crdroid_logo_summary">Hiển thị logo trên thanh trạng thái</string>
     <string name="status_bar_crdroid_logo_color">Màu logo</string>
@@ -448,7 +448,7 @@
     <string name="status_bar_crdroid_logo_style">Kiểu logo</string>
     <string name="status_bar_logo_position_right">Phải</string>
     <string name="status_bar_logo_position_left">Trái</string>
-    <string name="status_bar_logo_style_crdroid">crDroid</string>
+    <string name="status_bar_logo_style_crdroid">LuisROM crDroid</string>
     <string name="status_bar_logo_style_android">Android</string>
     <string name="status_bar_logo_style_apple">Apple</string>
     <string name="status_bar_logo_style_ios">iOS</string>
@@ -1021,14 +1021,14 @@
     <string name="changelog_crdroid_title">Thay đổi hiện tại</string>
     <string name="changelog_crdroid_summary">Xem những thay đổi của bản ROM được cài đặt</string>
     <string name="changelog_crdroid_error">Không thể nạp changelog</string>
-    <!-- About crDroid -->
-    <string name="about_crdroid">Về crDroid</string>
-    <!-- Share crDroid -->
-    <string name="share_crdroid_title">Chia sẻ crDroid</string>
+    <!-- About LuisROM crDroid -->
+    <string name="about_crdroid">Về LuisROM crDroid</string>
+    <!-- Share LuisROM crDroid -->
+    <string name="share_crdroid_title">Chia sẻ LuisROM crDroid</string>
     <string name="share_crdroid_summary">Cho những người khác biết về Crdroid</string>
-    <string name="share_message">Khám phá thêm #crDroid là tất cả về @ https://plus.google.com/communities/118297646046960923906</string>
-    <string name="share_chooser_title">Chia sẻ crDroid</string>
-    <!-- Sites crDroid -->
+    <string name="share_message">Khám phá thêm #LuisROM crDroid là tất cả về @ https://plus.google.com/communities/118297646046960923906</string>
+    <string name="share_chooser_title">Chia sẻ LuisROM crDroid</string>
+    <!-- Sites LuisROM crDroid -->
     <string name="crdroid_source_title">GitHub</string>
     <string name="crdroid_source_summary">Chúng tôi yêu mở nguồn, kiểm tra với chúng tôi</string>
     <string name="crdroid_google_plus_title">Google+</string>
@@ -1043,10 +1043,10 @@
     <string name="maintainers_crdroid_title">Thiết bị và Người hỗ trợ</string>
     <string name="maintainers_crdroid_summary">Danh sách các thiết bị và maintainers chính thức</string>
     <string name="maintainers_crdroid_error">Không thể nạp danh sách thiết bị và maintainers</string>
-    <!-- Donate crDroid -->
+    <!-- Donate LuisROM crDroid -->
     <string name="donate_crdroid_title">Hỗ trợ chúng tôi</string>
     <string name="donate_crdroid_summary">Ủng hộ để hỗ trợ phát triển và các máy chủ của chúng tôi</string>
-    <string name="donate_team_title">nhóm crDroid</string>
+    <string name="donate_team_title">nhóm LuisROM crDroid</string>
     <string name="donate_team_summary">Tặng để hỗ trợ máy chủ lưu trữ, hoạt động trang web và quản lý tổng thể</string>
     <string name="donate_dev_summary">Cốt lõi sự phát triển - tặng cho bia hoặc ly cà phê!</string>
     <!-- Button settings -->
