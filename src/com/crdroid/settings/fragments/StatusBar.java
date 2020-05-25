@@ -43,6 +43,7 @@ import com.crdroid.settings.fragments.statusbar.BatteryBar;
 import com.crdroid.settings.fragments.statusbar.Clock;
 import com.crdroid.settings.fragments.statusbar.NetworkTrafficSettings;
 import com.crdroid.settings.preferences.SystemSettingListPreference;
+import com.crdroid.settings.preferences.SystemSettingSeekBarPreference;
 import com.crdroid.settings.preferences.colorpicker.ColorPickerPreference;
 import com.crdroid.settings.utils.DeviceUtils;
 
@@ -64,15 +65,15 @@ public class StatusBar extends SettingsPreferenceFragment implements
     private static final String KEY_SHOW_DATA_DISABLED = "data_disabled_icon";
     private static final String KEY_SHOW_FOURG = "show_fourg_icon";
     private static final String KEY_SHOW_ROAMING = "roaming_indicator_icon";
-    private static final String KEY_SHOW_VOLTE = "show_volte_icon";
     private static final String KEY_OLD_MOBILETYPE = "use_old_mobiletype";
+    private static final String KEY_VOLTE_ICON_STYLE = "volte_icon_style";
 
     private LineageSystemSettingListPreference mStatusBarClock;
     private SwitchPreference mDataDisabled;
     private SwitchPreference mShowFourg;
     private SwitchPreference mShowRoaming;
-    private SwitchPreference mShowVolte;
     private SwitchPreference mOldMobileType;
+    private SystemSettingSeekBarPreference mVolteIconStyle;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -105,7 +106,6 @@ public class StatusBar extends SettingsPreferenceFragment implements
         mDataDisabled = (SwitchPreference) findPreference(KEY_SHOW_DATA_DISABLED);
         mShowFourg = (SwitchPreference) findPreference(KEY_SHOW_FOURG);
         mShowRoaming = (SwitchPreference) findPreference(KEY_SHOW_ROAMING);
-        mShowVolte = (SwitchPreference) findPreference(KEY_SHOW_VOLTE);
 
         mOldMobileType = (SwitchPreference) findPreference(KEY_OLD_MOBILETYPE);
         boolean mConfigUseOldMobileType = mContext.getResources().getBoolean(
